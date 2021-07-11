@@ -3,14 +3,14 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">简单漫画下载</h3>
+<h3 align="center">看漫画下载</h3>
 
 <div align="center">
 
 
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Createitv/kanmanSpider.svg)](https://github.com//Createitv/kanmanSpider/pulls)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
+</div>
 
 ## 关于本库 
 [看漫画](https://www.kanman.com)漫画下载,下载暂时为图片格式
@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 
 
 ```
-scrapy crawl comic -a urlId=索引`ID`
+scrapy crawl comic -a urlId=索引ID
 ```
 
 ## 举例
