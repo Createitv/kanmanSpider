@@ -6,15 +6,14 @@
 <h3 align="center">简单漫画下载</h3>
 
 <div align="center">
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/Createitv/kanmanSpider.svg)](https://github.com//Createitv/kanmanSpider/issues)
 
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com//Createitv/kanmanSpider/pulls)
+
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Createitv/kanmanSpider.svg)](https://github.com//Createitv/kanmanSpider/pulls)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## 关于本库 
-![看漫画](https://www.kanman.com)漫画下载,下载暂时为图片格式
+[看漫画](https://www.kanman.com)漫画下载,下载暂时为图片格式
 
 ## 环境准备
 `python3`+依赖库
